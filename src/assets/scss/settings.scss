@@ -1,0 +1,17 @@
+// No styling allowed. Only scss variables, functions, and mixins.
+
+// Sizes
+$container-padding: 20px;
+$columns: 3;
+$container-width: 1050px;
+$switch-width: calc(#{$container-width} + #{$container-padding} * 2); // when to change to desktop view
+$blur-opacity: 0.5;
+$modal-padding: 40px 60px;
+
+// Colors
+$color-black: #000;
+$color-white: #fff;
+$color-pink: #d50f67;
+$color-yellow: #fcba00;
+$color-purple: #393555;
+$color-light-grey: #efefef;
