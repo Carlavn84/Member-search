@@ -10,7 +10,7 @@
         </div>
 
         <div class="address">
-          <p>Somewhere in the world, 2220 WB</p>
+          <p>Somewhere in the world, 2220 NE</p>
           <p>the Earth</p>
         </div>
 
