@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <p class="title">LifeIsBeautiful</p>
+    <p class="title">LifeIsBeautiful.</p>
   </div>
 </template>
 
