@@ -1,17 +1,17 @@
 <template>
   <div class="footer">
     <div class="container">
-      <p class="company">Lifeisbeautiful.com</p>
+      <p class="company">dummydata.com</p>
 
       <div class="info grid">
         <div class="contact">
           <p><a href="tel:+31823456789">+31 (0) 82 - 3456789</a></p>
-          <p><a href="mailto:info@inhousefilming.com">info@lifeisbeautiful.com</a></p>
+          <p><a href="mailto:info@dummydata.com">info@dummydata.com</a></p>
         </div>
 
         <div class="address">
-          <p>Somewhere in the world, 2220 NE</p>
-          <p>the Earth</p>
+          <p>Dummydata, 2220 NE</p>
+          <p>the AWS</p>
         </div>
 
         <div class="policies">
